@@ -8,9 +8,3 @@ NFT_Market_Place by solidity and react
   - NFTの売買によるETHの移動
   - Fetch
   
-- 今後(2021/9)
-  - tokenURIの処理(どちらかというとフロントかな？)
-  
-## フロント
-- reactを使用
-- 未完(2021/9)
